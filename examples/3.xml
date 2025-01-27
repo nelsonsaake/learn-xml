@@ -1,0 +1,23 @@
+<dp>
+    <env>
+        <i id="1" name="APP_NAME" />
+    </env>
+    <structure>
+        <dir name="var:1">
+            <dir name="service">
+            </dir>
+            <dir name="nginx">
+            </dir>
+            <dir name="working_directory">
+            </dir>
+        </dir>
+    </structure>
+    <script on="create">
+    </script>
+    <script on="start">
+    </script>
+    <script on="update">
+    </script>
+    <script on="delete">
+    </script>
+</dp>

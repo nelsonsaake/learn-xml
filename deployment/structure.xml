@@ -1,0 +1,8 @@
+<structure>
+    <dir name="{{ .AppName }}">
+        <dir name="logs"></dir>
+        <dir name="working_directory"></dir>
+        <dir name="nginx"></dir>
+        <dir name="service"></dir>
+    </dir>
+</structure>
