@@ -1,0 +1,7 @@
+<note>
+    <example />
+    <description>
+        The element above is an example of a self-closing tag.
+        Empty elements can have attributes.
+    </description>
+</note>

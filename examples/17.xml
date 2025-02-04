@@ -1,0 +1,12 @@
+<note>
+    <h1>XML Naming Rules</h1>
+    <p>XML elements must follow these naming rules:</p>
+    <ul>
+        <li>Element names are case-sensitive</li>
+        <li>Element names must start with a letter or underscore</li>
+        <li>Element names cannot start with the letters xml (or XML, or Xml, etc)</li>
+        <li>Element names can contains letters, digits, hyphens, underscores, and periods</li>
+        <li>Element names cannot contains spaces</li>
+    </ul>
+    <p>Any name can be used, no words are reserved (except xml).</p>
+</note>
