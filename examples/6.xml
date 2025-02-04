@@ -1,0 +1,9 @@
+<note>
+    &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+
+    this stuff is actually called the XML prolog
+
+    it is optional 
+
+    it is exists it must be the first line 
+</note>

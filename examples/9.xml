@@ -1,0 +1,30 @@
+<note>
+    <title>The 5 pre-defined XML entity references</title>
+    <entityReferences>
+        <entityReference>
+            <char> <![CDATA[&lt;]]> </char>
+            <symbol> &lt; </symbol>
+            <description> less than </description>
+        </entityReference>
+        <entityReference>
+            <char> <![CDATA[&gt;]]> </char>
+            <symbol> &gt; </symbol>
+            <description> greater than </description>
+        </entityReference>
+        <entityReference>
+            <char> <![CDATA[&amp;]]> </char>
+            <symbol> &amp; </symbol>
+            <description> ampersand </description>
+        </entityReference>
+        <entityReference>
+            <char> <![CDATA[&apos;]]> </char>
+            <symbol> &apos; </symbol>
+            <description> apostrophe </description>
+        </entityReference>
+        <entityReference>
+            <char> <![CDATA[&quot;]]> </char>
+            <symbol> &quot; </symbol>
+            <description> quotation mark </description>
+        </entityReference>
+    </entityReferences>
+</note>

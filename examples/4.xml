@@ -1,0 +1,7 @@
+<root>
+    <child>
+        <subchild>
+            XML must have one root element
+        </subchild>
+    </child>
+</root>

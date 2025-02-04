@@ -1,0 +1,11 @@
+<comment>
+    <actualComment>
+        <!-- this is a comment -->
+    </actualComment>
+    <example>
+        &lt;!-- this is a commet --&gt;
+    </example>
+    <note>
+        two dashed in the middle are not allowed for xml comments
+    </note>
+</comment>

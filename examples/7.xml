@@ -1,0 +1,8 @@
+<note date="12/11/2007">
+    <to>Tove</to>
+    <from>Jani</from>
+    <body>
+        The focus of this XML is the date attribute. 
+        Attributes must always be quoted.
+    </body>
+</note>

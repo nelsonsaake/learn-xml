@@ -1,0 +1,14 @@
+<newLine>
+    <win>
+        windows store new line as (CR+LF)
+    </win>
+    <unix>
+        unix and mac OS as LF
+    </unix>
+    <mac>
+        old mac systems use CR
+    </mac>
+    <xml>
+        xml as LF
+    </xml>
+</newLine>
