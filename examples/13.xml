@@ -1,0 +1,14 @@
+<element>
+    <q>What is an element?</q>
+    <ans>
+        An element is everything from (including) the element's start tag to (including) the
+        element's end tag.
+    </ans>
+    <more> an element can contain: <ul>
+            <li>text</li>
+            <li>attributes</li>
+            <li>other elements</li>
+            <li>or a mix of the above</li>
+        </ul>
+    </more>
+</element>
